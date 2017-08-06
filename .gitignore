@@ -1,0 +1,18 @@
+!.gitkeep
+
+# Project files
+
+*.bak
+*.~*
+
+# Lazarus
+*.exe
+*.compiled
+*.dbg
+ppas.bat
+*.~*
+*.bak
+*.lpu
+*.ppu
+*.o
+*.or
